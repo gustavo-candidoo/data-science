@@ -1,3 +1,4 @@
 import gustavocandido
 
-gustavocandido.importarBibliotecasEDA()
+gustavocandido.importarBibliotecas()
+
